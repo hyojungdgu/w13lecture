@@ -1,0 +1,5 @@
+slides > slide {
+/*font-family: "D2Coding ligature" !important;*/
+  overflow-x: auto !important;
+  overflow-y: auto !important;
+}
